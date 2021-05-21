@@ -5,7 +5,7 @@ The purpose of this analysis is to convince investors that a bike-sharing progra
 
 ## Results
 
-![alt text](https://github.com/mansal2487/bikesharing/blob/main/Images/starting_location.PNG)
+![alt text](https://github.com/mansal2487/bikesharing/blob/main/Images/starting_locations.PNG)
 ### showing the most popular locations to checkout a bike
 
 ![alt text](https://github.com/mansal2487/bikesharing/blob/main/Images/gender_breakdown.PNG)
