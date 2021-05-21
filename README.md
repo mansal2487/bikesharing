@@ -30,3 +30,4 @@ The purpose of this analysis is to convince investors that a bike-sharing progra
 https://public.tableau.com/profile/matthew.ansaldi#!/vizhome/Module_14Challenge/Story1?publish=yes
 
 ## Summary
+As you can see, males and females ride their bike for about the same amount of time and checkout their bike around the same time. The biggest difference in this data is that subscribers checkout a bike much more often. In the future, I would create a visualization to see which gender has subscribed more. I would also survey riders who are subscribed and ask them why they subscribed (for fun, for work, for exercise, etc.) and survey people who are not subscribed and ask them why they aren't (already have a bike, use a car, physically can't, etc.). Once both surveys are done, I would add the data to the dataset and visualize what the most common reasons are to give me a better idea of which people I should be targeting. 
